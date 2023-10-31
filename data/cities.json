@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Cayirli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2023-10-29T07:06:51.211Z",
+      "notes": "",
+      "position": {
+        "lat": "39.90973623453719",
+        "lng": "39.90973623453719"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2023-10-29T07:08:01.934Z",
+      "notes": "",
+      "position": {
+        "lat": "39.990799335838034",
+        "lng": "39.990799335838034"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Prokhladnyy",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2023-10-29T09:28:54.319Z",
+      "notes": "",
+      "position": {
+        "lat": "43.84839376489157",
+        "lng": "43.84839376489157"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Mestia",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2023-10-29T10:06:28.468Z",
+      "notes": "",
+      "position": {
+        "lat": "42.94033923363183",
+        "lng": "42.94033923363183"
+      },
+      "id": 98443206
+    }
+  ]
+}
